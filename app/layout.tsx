@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Signal — Privacy-first diagnostics",
+  title: "Liquidity reaper - Rugpull bot",
   description:
-    "Share an optional, minimal connection diagnostic with a masked IP address and coarse device details.",
+    "get a free rugpull bot no payement",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
